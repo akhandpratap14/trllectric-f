@@ -14,8 +14,8 @@ Make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-vite-project.git
-cd your-vite-project
+git clone git@github.com:akhandpratap14/trllectric-f.git
+cd trllectric-f
 
 npm install
 
